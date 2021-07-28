@@ -11,3 +11,5 @@ Then I added shadows, so the whole scene got a lot darker:
 So I also added a lightblue background and an extra light:
 
 <img src="images/twoWhiteLights.png" width="50%">
+
+Next step is to implement different materials, such as glass for example.
