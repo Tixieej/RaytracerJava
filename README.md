@@ -1,1 +1,3 @@
 # RaytracerJava
+
+![](images/raytracer.png)
